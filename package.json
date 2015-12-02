@@ -1,0 +1,13 @@
+{
+	"name":"belajar-nodejs",
+	"dependencies": {
+		"express":"~4.8.7",
+		"body-parser":"~1.7.0"
+	}
+}{
+	"name":"belajar-nodejs",
+	"dependencies": {
+		"express":"~4.8.7",
+		"body-parser":"~1.7.0"
+	}
+}
